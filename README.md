@@ -7,7 +7,7 @@
 
 - [رزومه](https://mim-asadpour.github.io/)
 
-- [SOP]()
+- [SOP](https://mim-asadpour.github.io/SOP/)
 
 
 ------------------
