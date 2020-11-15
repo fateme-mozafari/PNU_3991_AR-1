@@ -22,7 +22,6 @@
 <br>
 [1322110_01 طراحي واسط كاربر 3](https://github.com/mim-asadpour/PNU_3991_AR/tree/main/UserInterfaceDesgin)
 
---------------
 
 ------------------
 ## گروه ها
