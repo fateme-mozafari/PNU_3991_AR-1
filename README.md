@@ -10,7 +10,19 @@
 
 - [Certificates](https://mim-asadpour.github.io/Certificates/)
 
-- [فرم ارزیابی](XX_GeneralSection_CheckList_AR_3991.pdf)
+
+------------------
+> ارزیابی ها
+
+##  بخش عمومی
+- [ارزیابی رزومه و انگیزه نامه](MA_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](MA_GeneralSection_CheckList_AR_3991.pdf)
+
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس طراحی واسط کاربر]()
+- [خلاصه ارزیابی درس تعامل انسان و کامپیوتر]()
+- [خلاصه ارزیابی درس نظریه زبان و ماشین]()
+
 
 ------------------
 ## Winter Semester Courses 1399/2020
