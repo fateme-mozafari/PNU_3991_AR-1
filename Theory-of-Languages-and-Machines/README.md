@@ -2,16 +2,24 @@
 
  [نمونه در دانشگاه ستندفورد کالیفرنیا](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
  
- -------------------
+  -------------------
 
 
 ### لینک پروژه نهایی
-[ اینجا کلیک کنید]()
+[ اینجا کلیک کنید](https://github.com/amirrezaBahoush/resume-generator)
 
 
  
 -----------------
+ 
 
+
+### چک لیست درس
+[ اینجا کلیک کنید](MA_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
+
+ 
+-----------------
  
 1. G-L01
     1. [_LMT01-04_مهديه اسدپور](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/04_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%A7%D8%B3%D8%AF%D9%BE%D9%88%D8%B1)    
