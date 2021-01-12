@@ -2,11 +2,20 @@
 
  [نمونه در دانشگاه مینه سوتا](https://www.coursera.org/specializations/user-interface-design)
  
- -------------------
+  -------------------
 
 
 ### لینک پروژه نهایی
-[ اینجا کلیک کنید]()
+[ اینجا کلیک کنید](https://github.com/amirrezaBahoush/resume-generator)
+
+
+ 
+-----------------
+ 
+
+
+### چک لیست درس
+[ اینجا کلیک کنید](MA_UserInterfaceDesgin_CheckList_AR_3991.pdf)
 
 
  
