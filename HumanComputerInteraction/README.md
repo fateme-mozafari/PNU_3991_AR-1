@@ -6,7 +6,16 @@
 
 
 ### لینک پروژه نهایی
-[ اینجا کلیک کنید]()
+[ اینجا کلیک کنید](https://github.com/amirrezaBahoush/resume-generator)
+
+
+ 
+-----------------
+ 
+
+
+### چک لیست درس
+[ اینجا کلیک کنید](MA_HumanComputerInteraction_CheckList_AR_3991.pdf)
 
 
  
